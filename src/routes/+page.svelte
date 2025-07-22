@@ -31,5 +31,6 @@
 </style>
 
 <div class="container">
-  <h1>Coming Soon</h1>
+    <h1>Coming Soon</h1>
+    <a href="https://notes.aslamcodes.in" target="_blank">Meanwhile checkout my notes page</a>
 </div>
