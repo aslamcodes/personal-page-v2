@@ -23,13 +23,15 @@
     color: #89b4fa; /* Neon blue */
   }
 
-  p {
+  a {
     font-size: 1.25rem;
     color: #f5c2e7; /* Soft purple */
     margin-top: 0.5rem;
+    text-decoration: none;
   }
 </style>
 
 <div class="container">
-  <h1>Coming Soon</h1>
+    <h1>Coming Soon</h1>
+    <a href="https://notes.aslamcodes.in" target="_blank">Meanwhile check out my <span style="text-decoration: underline;">notes</span> page</a>
 </div>
