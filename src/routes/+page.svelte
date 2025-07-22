@@ -23,10 +23,11 @@
     color: #89b4fa; /* Neon blue */
   }
 
-  p {
+  a {
     font-size: 1.25rem;
     color: #f5c2e7; /* Soft purple */
     margin-top: 0.5rem;
+    text-decoration: none;
   }
 </style>
 
